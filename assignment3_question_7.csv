@@ -1,0 +1,13 @@
+ID,Brand,Product
+101,Apple,iPhone
+102,Canon,DSLR
+103,Samsung,SmartPhone
+104,Nikon,DSLR
+105,Sony,SmartTV
+,,
+ID,Brand,Quantity_sold
+101,Apple,234
+102,Canon,344
+104,Samsung,345
+103,Nikon,262
+105,Sony,
